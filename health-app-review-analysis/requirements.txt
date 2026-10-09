@@ -1,6 +1,0 @@
-google-play-scraper>=1.2
-duckdb>=1.0
-pandas>=2.0
-matplotlib>=3.8
-requests>=2.31
-anthropic>=0.40      # only for the Claude provider (ANTHROPIC_API_KEY)
