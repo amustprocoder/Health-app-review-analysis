@@ -1,0 +1,16 @@
+label,india_built_pct,global_pct,platform_pct,india_minus_global_pp,n
+coach_support,16.9,2.6,1.6,14.3,2337.0
+food_db,4.9,17.9,5.5,-12.9,5449.0
+paywall,5.2,15.7,1.5,-10.5,4682.0
+other_complaint,39.8,30.3,34.1,9.5,13631.0
+ux,3.7,9.0,10.4,-5.3,3315.0
+crash,10.7,6.2,9.2,4.5,3148.0
+device_sync,1.0,2.9,19.2,-1.9,1995.0
+content_quality,2.8,1.1,0.5,1.7,574.0
+login,3.5,5.0,3.2,-1.5,1807.0
+performance,2.6,1.2,1.5,1.4,640.0
+spam,1.8,0.8,1.2,1.0,448.0
+localisation,0.3,1.0,0.9,-0.7,338.0
+billing,6.0,5.5,0.3,0.4,2013.0
+privacy,0.5,0.3,0.9,0.2,191.0
+tracking,0.2,0.4,10.1,-0.2,739.0

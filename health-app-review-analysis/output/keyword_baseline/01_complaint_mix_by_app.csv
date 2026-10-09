@@ -1,0 +1,224 @@
+app,segment,n_reviews,n_complaints,complaint_rate_pct,avg_rating,label,n,pct_of_complaints,rank_in_app
+BodyFast,fasting,7964,1256.0,15.8,4.26,other_complaint,637,50.7,1
+BodyFast,fasting,7964,1256.0,15.8,4.26,billing,137,10.9,2
+BodyFast,fasting,7964,1256.0,15.8,4.26,coach_support,133,10.6,3
+BodyFast,fasting,7964,1256.0,15.8,4.26,paywall,103,8.2,4
+BodyFast,fasting,7964,1256.0,15.8,4.26,ux,65,5.2,5
+BodyFast,fasting,7964,1256.0,15.8,4.26,spam,46,3.7,6
+BodyFast,fasting,7964,1256.0,15.8,4.26,login,45,3.6,7
+BodyFast,fasting,7964,1256.0,15.8,4.26,crash,30,2.4,8
+BodyFast,fasting,7964,1256.0,15.8,4.26,content_quality,19,1.5,9
+BodyFast,fasting,7964,1256.0,15.8,4.26,food_db,15,1.2,10
+BodyFast,fasting,7964,1256.0,15.8,4.26,performance,13,1.0,11
+BodyFast,fasting,7964,1256.0,15.8,4.26,localisation,6,0.5,12
+BodyFast,fasting,7964,1256.0,15.8,4.26,device_sync,4,0.3,13
+BodyFast,fasting,7964,1256.0,15.8,4.26,privacy,3,0.2,14
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,other_complaint,627,41.5,1
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,food_db,274,18.1,2
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,crash,182,12.1,3
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,billing,166,11.0,4
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,paywall,81,5.4,5
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,login,55,3.6,6
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,coach_support,34,2.3,7
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,ux,33,2.2,8
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,performance,22,1.5,9
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,spam,11,0.7,10
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,content_quality,7,0.5,11
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,privacy,6,0.4,12
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,device_sync,6,0.4,12
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,localisation,5,0.3,14
+Cal AI,ai_photo,7782,1510.0,19.4,4.05,tracking,1,0.1,15
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,paywall,578,28.9,1
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,other_complaint,462,23.1,2
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,food_db,314,15.7,3
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,crash,155,7.8,4
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,login,149,7.5,5
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,ux,120,6.0,6
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,device_sync,81,4.1,7
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,coach_support,32,1.6,8
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,billing,30,1.5,9
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,content_quality,21,1.1,10
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,performance,21,1.1,10
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,localisation,13,0.7,12
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,privacy,13,0.7,12
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,spam,8,0.4,14
+Cronometer,global_tracker,7993,1999.0,25.0,4.09,tracking,2,0.1,15
+FITTR,india_coach,7960,1136.0,14.3,4.4,other_complaint,516,45.4,1
+FITTR,india_coach,7960,1136.0,14.3,4.4,login,160,14.1,2
+FITTR,india_coach,7960,1136.0,14.3,4.4,coach_support,147,12.9,3
+FITTR,india_coach,7960,1136.0,14.3,4.4,crash,124,10.9,4
+FITTR,india_coach,7960,1136.0,14.3,4.4,ux,40,3.5,5
+FITTR,india_coach,7960,1136.0,14.3,4.4,food_db,30,2.6,6
+FITTR,india_coach,7960,1136.0,14.3,4.4,performance,29,2.6,7
+FITTR,india_coach,7960,1136.0,14.3,4.4,content_quality,20,1.8,8
+FITTR,india_coach,7960,1136.0,14.3,4.4,billing,19,1.7,9
+FITTR,india_coach,7960,1136.0,14.3,4.4,spam,16,1.4,10
+FITTR,india_coach,7960,1136.0,14.3,4.4,paywall,12,1.1,11
+FITTR,india_coach,7960,1136.0,14.3,4.4,device_sync,10,0.9,12
+FITTR,india_coach,7960,1136.0,14.3,4.4,privacy,9,0.8,13
+FITTR,india_coach,7960,1136.0,14.3,4.4,tracking,4,0.4,14
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,other_complaint,405,35.7,1
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,food_db,303,26.7,2
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,paywall,91,8.0,3
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,crash,86,7.6,4
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,ux,80,7.0,5
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,login,59,5.2,6
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,performance,23,2.0,7
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,device_sync,21,1.9,8
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,localisation,17,1.5,9
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,coach_support,13,1.1,10
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,billing,11,1.0,11
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,content_quality,9,0.8,12
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,spam,8,0.7,13
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,privacy,7,0.6,14
+FatSecret,global_tracker,7966,1135.0,14.2,4.41,tracking,2,0.2,15
+Fitelo,india_coach,7992,920.0,11.5,4.67,coach_support,380,41.3,1
+Fitelo,india_coach,7992,920.0,11.5,4.67,other_complaint,272,29.6,2
+Fitelo,india_coach,7992,920.0,11.5,4.67,content_quality,76,8.3,3
+Fitelo,india_coach,7992,920.0,11.5,4.67,crash,57,6.2,4
+Fitelo,india_coach,7992,920.0,11.5,4.67,billing,57,6.2,4
+Fitelo,india_coach,7992,920.0,11.5,4.67,spam,16,1.7,6
+Fitelo,india_coach,7992,920.0,11.5,4.67,login,14,1.5,7
+Fitelo,india_coach,7992,920.0,11.5,4.67,paywall,12,1.3,8
+Fitelo,india_coach,7992,920.0,11.5,4.67,food_db,11,1.2,9
+Fitelo,india_coach,7992,920.0,11.5,4.67,device_sync,8,0.9,10
+Fitelo,india_coach,7992,920.0,11.5,4.67,ux,7,0.8,11
+Fitelo,india_coach,7992,920.0,11.5,4.67,performance,6,0.7,12
+Fitelo,india_coach,7992,920.0,11.5,4.67,localisation,2,0.2,13
+Fitelo,india_coach,7992,920.0,11.5,4.67,tracking,1,0.1,14
+Fitelo,india_coach,7992,920.0,11.5,4.67,privacy,1,0.1,14
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,other_complaint,1082,37.3,1
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,food_db,386,13.3,2
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,paywall,358,12.4,3
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,coach_support,312,10.8,4
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,billing,199,6.9,5
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,crash,128,4.4,6
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,ux,108,3.7,7
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,content_quality,90,3.1,8
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,spam,79,2.7,9
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,login,51,1.8,10
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,device_sync,42,1.4,11
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,performance,23,0.8,12
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,privacy,23,0.8,12
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,localisation,10,0.3,14
+HealthifyMe,india_coach,7846,2897.0,36.9,3.41,tracking,6,0.2,15
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,other_complaint,721,26.7,1
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,food_db,643,23.8,2
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,paywall,458,17.0,3
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,ux,228,8.4,4
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,crash,140,5.2,5
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,billing,109,4.0,6
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,login,98,3.6,7
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,device_sync,96,3.6,8
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,content_quality,61,2.3,9
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,coach_support,47,1.7,10
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,performance,40,1.5,11
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,localisation,23,0.9,12
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,spam,18,0.7,13
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,tracking,12,0.4,14
+Lifesum,global_tracker,7961,2700.0,33.9,3.73,privacy,6,0.2,15
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,food_db,909,24.8,1
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,paywall,900,24.6,2
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,other_complaint,777,21.2,3
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,billing,255,7.0,4
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,login,186,5.1,5
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,crash,172,4.7,6
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,ux,131,3.6,7
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,device_sync,122,3.3,8
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,performance,63,1.7,9
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,coach_support,57,1.6,10
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,localisation,33,0.9,11
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,content_quality,22,0.6,12
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,spam,11,0.3,13
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,tracking,10,0.3,14
+Lose It!,global_tracker,7985,3658.0,45.8,3.31,privacy,10,0.3,14
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,other_complaint,1450,26.6,1
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,ux,1329,24.4,2
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,food_db,796,14.6,3
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,paywall,713,13.1,4
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,login,397,7.3,5
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,crash,245,4.5,6
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,device_sync,175,3.2,7
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,billing,116,2.1,8
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,coach_support,83,1.5,9
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,performance,40,0.7,10
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,localisation,27,0.5,11
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,spam,21,0.4,12
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,content_quality,19,0.3,13
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,tracking,16,0.3,14
+MyFitnessPal,global_tracker,7987,5442.0,68.1,2.46,privacy,15,0.3,15
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,other_complaint,494,29.7,1
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,food_db,427,25.7,2
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,paywall,266,16.0,3
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,ux,94,5.7,4
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,crash,91,5.5,5
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,billing,71,4.3,6
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,login,62,3.7,7
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,device_sync,53,3.2,8
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,localisation,26,1.6,9
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,content_quality,21,1.3,10
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,coach_support,20,1.2,11
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,performance,16,1.0,12
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,spam,11,0.7,13
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,tracking,5,0.3,14
+MyNetDiary,global_tracker,7988,1661.0,20.8,4.25,privacy,4,0.2,15
+Noom,global_coach,7992,2848.0,35.6,3.73,other_complaint,736,25.8,1
+Noom,global_coach,7992,2848.0,35.6,3.73,food_db,400,14.0,2
+Noom,global_coach,7992,2848.0,35.6,3.73,billing,374,13.1,3
+Noom,global_coach,7992,2848.0,35.6,3.73,crash,348,12.2,4
+Noom,global_coach,7992,2848.0,35.6,3.73,coach_support,230,8.1,5
+Noom,global_coach,7992,2848.0,35.6,3.73,paywall,195,6.8,6
+Noom,global_coach,7992,2848.0,35.6,3.73,login,152,5.3,7
+Noom,global_coach,7992,2848.0,35.6,3.73,localisation,75,2.6,8
+Noom,global_coach,7992,2848.0,35.6,3.73,device_sync,70,2.5,9
+Noom,global_coach,7992,2848.0,35.6,3.73,ux,65,2.3,10
+Noom,global_coach,7992,2848.0,35.6,3.73,tracking,59,2.1,11
+Noom,global_coach,7992,2848.0,35.6,3.73,content_quality,58,2.0,12
+Noom,global_coach,7992,2848.0,35.6,3.73,performance,36,1.3,13
+Noom,global_coach,7992,2848.0,35.6,3.73,spam,34,1.2,14
+Noom,global_coach,7992,2848.0,35.6,3.73,privacy,16,0.6,15
+Samsung Health,platform,7977,5983.0,75.0,2.19,other_complaint,2041,34.1,1
+Samsung Health,platform,7977,5983.0,75.0,2.19,device_sync,1148,19.2,2
+Samsung Health,platform,7977,5983.0,75.0,2.19,ux,620,10.4,3
+Samsung Health,platform,7977,5983.0,75.0,2.19,tracking,602,10.1,4
+Samsung Health,platform,7977,5983.0,75.0,2.19,crash,549,9.2,5
+Samsung Health,platform,7977,5983.0,75.0,2.19,food_db,330,5.5,6
+Samsung Health,platform,7977,5983.0,75.0,2.19,login,193,3.2,7
+Samsung Health,platform,7977,5983.0,75.0,2.19,coach_support,93,1.6,8
+Samsung Health,platform,7977,5983.0,75.0,2.19,paywall,92,1.5,9
+Samsung Health,platform,7977,5983.0,75.0,2.19,performance,90,1.5,10
+Samsung Health,platform,7977,5983.0,75.0,2.19,spam,73,1.2,11
+Samsung Health,platform,7977,5983.0,75.0,2.19,localisation,53,0.9,12
+Samsung Health,platform,7977,5983.0,75.0,2.19,privacy,52,0.9,13
+Samsung Health,platform,7977,5983.0,75.0,2.19,content_quality,31,0.5,14
+Samsung Health,platform,7977,5983.0,75.0,2.19,billing,16,0.3,15
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,other_complaint,1617,41.3,1
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,paywall,726,18.5,2
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,food_db,586,15.0,3
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,ux,212,5.4,4
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,billing,178,4.5,5
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,crash,169,4.3,6
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,device_sync,127,3.2,7
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,login,91,2.3,8
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,content_quality,46,1.2,9
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,coach_support,41,1.0,10
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,spam,40,1.0,11
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,performance,35,0.9,12
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,localisation,32,0.8,13
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,privacy,10,0.3,14
+YAZIO,global_tracker,7918,3918.0,49.5,3.07,tracking,8,0.2,15
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,other_complaint,1794,42.3,1
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,coach_support,715,16.8,2
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,crash,672,15.8,3
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,billing,275,6.5,4
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,ux,183,4.3,5
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,performance,183,4.3,5
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,paywall,97,2.3,7
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,login,95,2.2,8
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,content_quality,74,1.7,9
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,spam,56,1.3,10
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,device_sync,32,0.8,11
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,food_db,25,0.6,12
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,privacy,16,0.4,13
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,localisation,16,0.4,13
+cult.fit,india_fitness,7955,4244.0,53.4,2.91,tracking,11,0.3,15
